@@ -31,7 +31,7 @@ export const Weather = () => {
 
   return (
     <>
-      <div className="flex items-center justify-center min-h-screen bg-blue-400">
+      <div className="flex items-center justify-center min-h-screen bg-gradient-to-r from-green-400 to-blue-500 hover:from-pink-500 hover:to-yellow-500 ...">
         <div className="w-full sm:w-2/3 md:w-1/2 lg:w-1/3 p-8 rounded-lg m-5 mx-auto text-center text-black bg-white">
           <Upper handleClick={handleClick} setName={setName} />
           {error && <div style={{ color: "red" }}>{error}</div>}
