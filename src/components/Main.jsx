@@ -38,7 +38,7 @@ export const Main = () => {
           className="mt-3 px-4 py-2 bg-blue-500 text-center text-white rounded-lg sm:mt-0 sm:ml-2"
           onClick={handleWeatherButtonClick}
         >
-          Weather
+          Show
         </button>
       </div>
     </>

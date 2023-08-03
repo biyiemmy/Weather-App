@@ -1,6 +1,11 @@
 import {} from "react";
 import { NavLink } from "react-router-dom";
 
+/**
+ * Renders the footer section of a web page.
+ *
+ * @returns {JSX.Element} The JSX element representing the footer section.
+ */
 export const Footer = () => {
   return (
     <>

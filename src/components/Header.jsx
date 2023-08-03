@@ -1,5 +1,10 @@
 import { useState, useEffect } from "react";
 
+/**
+ * Displays a welcome message with a typewriter effect on a web page.
+ * The welcome message is "Welcome to Real Time Weather Update" and the 
+ * typewriter effect is achieved by gradually displaying the message one character at a time.
+ */
 export const Header = () => {
   const [welcomeText, setWelcomeText] = useState("");
 
