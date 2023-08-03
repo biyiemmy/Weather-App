@@ -16,7 +16,7 @@ Currently, two official plugins are available:
 <img width="1440" alt="Screenshot 2023-08-03 at 16 02 56" src="https://github.com/biyiemmy/Weather-App/assets/74870372/3d4257ea-5977-4c96-917c-b4659a708150">
 
 
-## How to se
+## How to use
 
 Install dependencies:
 
